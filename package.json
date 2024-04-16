@@ -1,0 +1,23 @@
+{
+  "name": "kb-backend-week-2-startkit-main",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StudioBoloto/games-rating.git"
+  },
+  "author": "StudioBoloto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StudioBoloto/games-rating/issues"
+  },
+  "homepage": "https://github.com/StudioBoloto/games-rating#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
